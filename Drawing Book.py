@@ -30,6 +30,6 @@ def pageCount(n, p):
                
             
         
-n = int(input())
-p = int(input())
-pageCount(n,p))
+#n = int(input())
+#p = int(input())
+pageCount(5,6))
